@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>my owl carousel - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="my_owl_carousel">a11488ba078920106d0ef1d08c1ed028</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-16 09:44:42</sys_created_on>
+        <sys_id>651488ba078920106d0ef1d08c1ed02b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>my owl carousel - Container 1</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sp_container_651488ba078920106d0ef1d08c1ed02b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-16 09:44:42</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>bb021fd8db478c54f492c59705961924</instance_id>
+        <instance_name>dev100845</instance_name>
+        <name>sp_container_651488ba078920106d0ef1d08c1ed02b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>my owl carousel - Container 1</name><order>1</order><sp_page display_value="my_owl_carousel">a11488ba078920106d0ef1d08c1ed028</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-16 09:44:42</sys_created_on><sys_id>651488ba078920106d0ef1d08c1ed02b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>my owl carousel - Container 1</sys_name><sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package><sys_policy/><sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope><sys_update_name>sp_container_651488ba078920106d0ef1d08c1ed02b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-16 09:44:42</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-1068949641</payload_hash>
+        <record_name>my owl carousel - Container 1</record_name>
+        <reverted_from/>
+        <source>e7ebcfd6070120106d0ef1d08c1ed02f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-16 09:44:42</sys_created_on>
+        <sys_id>2514c0be070d20106d0ef1d08c1ed0d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1766aefff700000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-16 09:44:42</sys_updated_on>
+        <type>Container</type>
+        <update_guid>a11488bac68920100ba610210356ef2d</update_guid>
+        <update_guid_history>a11488bac68920100ba610210356ef2d:-1068949641</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="my owl carousel - Container 1">b23cc8f2074d20106d0ef1d08c1ed043</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-16 10:20:16</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>81c25e389ca64cc083187b6130339104</sys_id>
+        <sys_metadata>651488ba078920106d0ef1d08c1ed02b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>my owl carousel - Container 1</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete display_value="">64daa03572704d49a928bf08a985d6f9</sys_scope_delete>
+        <sys_update_name>sp_container_651488ba078920106d0ef1d08c1ed02b</sys_update_name>
+        <sys_update_version display_value="sp_container_651488ba078920106d0ef1d08c1ed02b">2514c0be070d20106d0ef1d08c1ed0d3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-16 10:20:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
